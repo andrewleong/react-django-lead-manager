@@ -1,2 +1,12 @@
 .vscode/
-*.sqlite3
+db.sqlite3
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media
+*.py[cod]
+*$py.class
+*.so
+node_modules
